@@ -1,0 +1,14 @@
+{
+  "name": "willekeurige-muziek",
+  "version": "1.0.0",
+  "description": "speelt iets van sjerps nas",
+  "main": "willekeurige-muziek.js",
+  "scripts": {
+    "test": "node willekeurige-muziek.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "willekeurige-muziek": "./willekeurige-muziek.js"
+  }
+}
